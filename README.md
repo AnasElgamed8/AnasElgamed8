@@ -10,7 +10,7 @@ and I never feel satisfied unless I understand everything I'm doing.
 Currently using Arch linux (btw) and Hyprland, with a heavily personalized setup.
 Hosting my own massive library of tools on my ARM server, Docker and Traefik ftw!
 
-*   **Hardware:** Pushing an Intel Core i7-8850H to its absolute limits with undervolts that still fail in keeping my temps below 90 :(
+*   **Hardware:** Pushing an Intel Core i7-8750H to its absolute limits with undervolts that still fail in keeping my temps below 90 :(
 *   **Studying:** Data Science using **Python** learning Lua (because of Neovim), and learning Quickshell's syntax
 *   **Game Dev:** Made Hide and Sink for Brackey's game jam, and there are a lot of projects coming along the way ;)
 *   **Hobbies:** currently learning digital art and japanese. I love listening to music, and my experience as a high level rhythm gamer proves it (◕‿◕✿)
