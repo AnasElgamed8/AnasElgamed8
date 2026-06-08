@@ -33,8 +33,8 @@ but even if you don't want to, [find me on discord (@anaselgamed)](https://disco
   </a>
 </div>
 
----
-
+<!---
+Commented out for now, kinda depressing
 <div align="center">
   <br>
   <picture>
@@ -43,3 +43,4 @@ but even if you don't want to, [find me on discord (@anaselgamed)](https://disco
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/AnasElgamed8/AnasElgamed8/output/github-contribution-grid-snake.svg">
   </picture>
 </div>
+-->
