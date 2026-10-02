@@ -1,19 +1,17 @@
 ## Hello. (•◡•)/
 Anas here. 
 
-Most profiles are just a wall of generic tech badges. 
-I don't like that. so I won't include any of those :) 
-
 ## About Me
 A linux user since I was 12. I've always been fond of computers, 
 and I never feel satisfied unless I understand everything I'm doing.
+Currently trying to be a MLOps specialist
 Currently using Arch linux (btw) and Hyprland, with a heavily personalized setup.
-Hosting my own massive library of tools on my ARM server, Docker and Traefik ftw!
+Hosting my own library of tools on my ARM server. Docker and Traefik ftw!
 
-*   **Hardware:** Pushing an Intel Core i7-8750H to its absolute limits with undervolts that still fail in keeping my temps below 90 :(
-*   **Studying:** Data Science using **Python** learning Lua (because of Neovim and Hyprland), and learning Quickshell & Qt's syntax
-*   **Game Dev:** Made Hide and Sink for Brackey's game jam, and there are a lot of projects coming along the way ;)
-*   **Hobbies:** currently learning digital art and japanese. I love listening to music, and my experience as a high level rhythm gamer proves it (◕‿◕✿)
+*   **Hardware:** Pushing an Intel Core i7-8750H to its limits with undervolts that still fail in keeping my temps below 90 :(
+*   **Studying:** Data Science using Python, CLI apps using Go, and learning Lua cause it's fun :P
+*   **Game Dev:** Made Hide and Sink for Brackey's game jam, and there are a lot of projects coming along the way (probably) ;)
+*   **Hobbies:** currently learning japanese and reading lots of books/VNs. I love listening to music, and my experience as a high level rhythm gamer proves it (◕‿◕✿)
 
 ## **Drop the GUI. Open a terminal.**
 
@@ -35,6 +33,7 @@ but even if you don't want to, [find me on discord (@anaselgamed)](https://disco
 
 <!---
 Commented out for now, kinda depressing
+not really that depressing, idc, but I will leave it commented out
 <div align="center">
   <br>
   <picture>
